@@ -1,2 +1,2 @@
-# Whitepaper
+# Documentation
 In progress...
